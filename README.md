@@ -47,7 +47,7 @@ Here are some of the skills I possess:
 
 I’m always open to new opportunities and collaborations. Feel free to reach out to me through the following channels:
 
-- **Portfolio Website**: []
+- **Portfolio Website**: [https://sanjaya-samudra.github.io/My-Portfolio/]
 <!-- 
 ## 🔗 Useful Links
 
