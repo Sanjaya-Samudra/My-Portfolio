@@ -9,8 +9,8 @@ I’m Sanjaya Samudra, a Full Stack Developer with a passion for building scalab
 ## 🌟 Highlights
 
 - **Skills**: [JavaScript, Java, Python, SQL]
-- **Tools & Technologies**: [Git, VScode, Geany, Netbeans]
-- **Education**: [Reading a Degree in Software Engineering from University of Sri Jayewardenepura]
+- **Tools & Technologies**: [Git, Visual Studio Code, Geany, Netbeans, Codeblocks]
+- **Education**: [Reading a Degree of Software Engineering in University of Sri Jayewardenepura]
 <!-- - **Certifications**: [Relevant Certifications, e.g., AWS Certified Solutions Architect] -->
 
 <!-- ## 📁 Projects
