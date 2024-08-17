@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio! 🎉 Here you’ll find a collection of my projects, skills, and experiences that showcase my work in [Software Industry, e.g., Web Development, Data Science, Graphic Design].
+Welcome to my portfolio! 🎉 Here you’ll find a collection of my projects, skills, and experiences that showcase my work in Software Industry [e.g., Web Development, Programming, Data Science, Graphic Design].
 
 ## 🚀 About Me
 
